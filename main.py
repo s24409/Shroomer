@@ -73,7 +73,7 @@ model.compile(optimizer=Adam(learning_rate=0.001),
 history = model.fit(
     train_generator,
     validation_data=validation_generator,
-    epochs=10
+    epochs=2
 )
 
 # Save the model
