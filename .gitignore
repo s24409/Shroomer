@@ -1,0 +1,7 @@
+__pycache__
+.env
+
+app/data/DF20-metadata
+app/models/weights/*
+
+.DS_Store
